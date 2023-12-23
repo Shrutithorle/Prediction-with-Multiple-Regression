@@ -1,8 +1,8 @@
 # Prediction-with-Multiple-Regression
 
 This repository explores the application of multiple regression to predict specific outcomes using various factors. It includes two projects:
-1) 50_startups
-2) Toyota Corolla
+    1) 50_startups
+    2) Toyota Corolla
 
 1) 50_startups :-
 - Variation in profit among startups, regardless of state.
