@@ -6,10 +6,15 @@ This repository explores the application of multiple regression to predict speci
 
 1) 50_startups :-
 - Variation in profit among startups, regardless of state.
-- distribution and majority of startups of profit.\
+- distribution and majority of startups of profit.
 - correlations between variables
 
 
 2) Toyota Corolla :-
--
-to predict the profit of startups based on their R&amp;D spend, Administration spend, Marketing spend, and State.
+- Highest price orineted model
+- Lowest price model
+- Average price of models
+- Total count of models
+- Maximum price of models (top 5)
+- Coreelation between variables
+
